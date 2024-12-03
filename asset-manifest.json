@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Drug-Prescription/static/css/main.e6c13ad2.css",
+    "main.js": "/Drug-Prescription/static/js/main.0e93584c.js",
+    "static/js/453.0997e476.chunk.js": "/Drug-Prescription/static/js/453.0997e476.chunk.js",
+    "index.html": "/Drug-Prescription/index.html",
+    "main.e6c13ad2.css.map": "/Drug-Prescription/static/css/main.e6c13ad2.css.map",
+    "main.0e93584c.js.map": "/Drug-Prescription/static/js/main.0e93584c.js.map",
+    "453.0997e476.chunk.js.map": "/Drug-Prescription/static/js/453.0997e476.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0e93584c.js"
+  ]
+}
